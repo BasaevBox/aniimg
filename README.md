@@ -1,2 +1,36 @@
-# aniimg
-web site amine art public for php
+# 🎨 AniImg — Платформа для Аниме-Арта
+
+[![PHP](https://img.shields.io/badge/PHP-95.1%25-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![CSS](https://img.shields.io/badge/CSS-4.7%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
+[![License](https://img.shields.io/badge/License-Public-green?style=for-the-badge)](LICENSE)
+
+> **AniImg** — это общественная веб-платформа, созданная для художников и фанатов аниме. Делитесь своими работами, находите вдохновение и создавайте сообщество вокруг любимого искусства.
+
+---
+
+## 🌟 Особенности
+
+- 🖼️ **Публикация артов** — загружайте и делитесь своими аниме-иллюстрациями
+- 👤 **Профили пользователей** — персональные страницы для каждого участника
+- ❤️ **Избранное** — сохраняйте понравившиеся работы в коллекцию
+- 🔔 **Подписки** — следите за обновлениями любимых художников
+- 🔍 **Поиск** — находите арты по названиям, тегам или авторам
+- 🛡️ **Админ-панель** — управление контентом и пользователями
+- 📱 **Адаптивный дизайн** — удобно просматривать с любых устройств
+
+---
+
+## 🚀 Быстрый старт
+
+### Требования
+
+- PHP 7.4 или выше
+- MySQL / MariaDB
+- Веб-сервер (Apache, Nginx)
+
+### Установка
+
+1. **Клонируйте репозиторий**
+   ```bash
+   git clone https://github.com/BasaevBox/aniimg.git
+   cd aniimg
